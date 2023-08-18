@@ -1,0 +1,109 @@
+Gender,Nursing Home,City Quadrant,Age 65-74,Age 75-84,Age 85-94,Age 95+
+Female,Maple Gardens,North,12,18,25,35
+Male,Maple Gardens,North,15,20,30,45
+Female,Sunflower Manor,South,10,15,20,25
+Male,Sunflower Manor,South,12,18,25,30
+Female,Rosewood Haven,East,8,12,18,30
+Male,Rosewood Haven,East,10,14,22,35
+Female,Oakridge Lodge,West,18,25,35,50
+Male,Oakridge Lodge,West,20,30,40,55
+Female,Aspen Meadows,North,12,18,30,40
+Male,Aspen Meadows,North,15,22,28,42
+Female,Cedar Oaks,South,14,20,30,42
+Male,Cedar Oaks,South,16,24,32,48
+Female,Birchwood Place,East,10,16,25,38
+Male,Birchwood Place,East,12,18,28,40
+Female,Willow Pines,West,20,30,40,60
+Male,Willow Pines,West,22,32,45,70
+Female,Evergreen Haven,North,16,24,35,45
+Male,Evergreen Haven,North,18,28,38,55
+Female,Golden Acres,South,10,15,20,25
+Male,Golden Acres,South,12,18,25,30
+Female,Prairie Lodge,East,14,20,30,42
+Male,Prairie Lodge,East,16,22,32,48
+Female,Mountain View,West,22,32,45,70
+Male,Mountain View,West,25,35,50,75
+Female,Riverfront Home,North,25,40,50,65
+Male,Riverfront Home,North,28,45,60,80
+Female,Sunset Residence,South,18,25,35,50
+Male,Sunset Residence,South,20,30,40,55
+Female,Whispering Pines,East,12,18,25,35
+Male,Whispering Pines,East,15,22,30,40
+Female,Meadowview Manor,West,20,30,40,60
+Male,Meadowview Manor,West,24,35,50,70
+Female,Harmony House,North,15,22,32,45
+Male,Harmony House,North,18,28,38,50
+Female,Springdale Villa,South,10,16,25,38
+Male,Springdale Villa,South,12,20,30,42
+Female,Amberly Court,East,14,22,30,45
+Male,Amberly Court,East,16,25,35,50
+Female,Sunrise Haven,West,22,32,45,65
+Male,Sunrise Haven,West,25,38,50,70
+Female,Cascading Meadows,North,18,28,40,55
+Male,Cascading Meadows,North,20,32,42,60
+Female,Tranquil Terrace,South,12,18,25,35
+Male,Tranquil Terrace,South,15,22,30,42
+Female,Whispering Oaks,East,10,16,22,32
+Male,Whispering Oaks,East,12,20,28,40
+Female,Willowbrook Residence,West,16,25,35,50
+Male,Willowbrook Residence,West,18,28,38,55
+Female,Maplewood Manor,North,10,15,22,32
+Male,Maplewood Manor,North,12,18,28,40
+Female,Oceanview Lodge,South,16,24,35,45
+Male,Oceanview Lodge,South,20,30,40,60
+Female,Whispering Brook,East,14,20,30,42
+Male,Whispering Brook,East,18,25,35,50
+Female,Springfield House,West,20,32,42,60
+Male,Springfield House,West,22,35,45,70
+Female,Maple Ridge Residence,North,12,18,25,38
+Male,Maple Ridge Residence,North,15,22,30,45
+Female,Graceful Living,South,10,16,25,35
+Male,Graceful Living,South,12,20,28,40
+Female,Silver Birch Manor,East,18,28,38,55
+Male,Silver Birch Manor,East,20,32,42,60
+Female,Amber Valley Villa,West,14,22,30,45
+Male,Amber Valley Villa,West,16,25,35,50
+Female,Whispering Pines Residence,North,20,30,40,55
+Male,Whispering Pines Residence,North,22,35,45,65
+Female,Sunnydale Place,South,16,25,35,50
+Male,Sunnydale Place,South,18,28,40,60
+Female,Amberwood Residence,North,14,20,28,40
+Male,Amberwood Residence,North,16,25,35,50
+Female,Harmony Haven,South,18,28,40,55
+Male,Harmony Haven,South,20,32,42,60
+Female,Riverbend Villa,East,12,18,25,35
+Male,Riverbend Villa,East,15,22,30,42
+Female,Grace Manor,West,10,16,22,32
+Male,Grace Manor,West,12,20,28,40
+Female,Sunrise Terrace,North,16,25,35,50
+Male,Sunrise Terrace,North,18,28,38,55
+Female,Oakwood Gardens,South,20,30,42,60
+Male,Oakwood Gardens,South,22,35,45,65
+Female,Parkside Residence,East,16,24,35,45
+Male,Parkside Residence,East,18,30,40,55
+Female,Mountain Ridge Lodge,West,14,22,32,48
+Male,Mountain Ridge Lodge,West,16,25,35,50
+Female,Willow Springs Place,North,18,28,40,55
+Male,Willow Springs Place,North,20,32,45,70
+Female,Sunset Manor,South,10,16,25,38
+Male,Sunset Manor,South,12,20,28,42
+Female,Rosewood Terrace,North,20,30,42,60
+Male,Rosewood Terrace,North,22,35,45,65
+Female,Greenfield Manor,South,14,22,32,45
+Male,Greenfield Manor,South,16,25,35,50
+Female,Mapleview Residence,East,18,28,40,55
+Male,Mapleview Residence,East,20,32,42,60
+Female,Golden Valley Lodge,West,12,20,30,42
+Male,Golden Valley Lodge,West,14,22,35,50
+Female,Tranquil Pines,North,16,25,35,50
+Male,Tranquil Pines,North,18,28,38,55
+Female,Meadowlark House,South,10,16,25,38
+Male,Meadowlark House,South,12,18,28,40
+Female,Silverstream Home,East,20,30,40,55
+Male,Silverstream Home,East,22,35,45,65
+Female,Whispering Winds,West,18,28,38,55
+Male,Whispering Winds,West,20,32,42,60
+Female,Heritage Oaks,North,14,22,30,45
+Male,Heritage Oaks,North,16,25,35,50
+Female,Parkview Haven,South,12,18,28,40
+Male,Parkview Haven,South,14,20,32,48
